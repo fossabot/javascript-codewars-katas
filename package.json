@@ -17,7 +17,7 @@
 	"scripts": {
 		"lint": "xo",
 		"test": "mocha --opts ./mocha.opts",
-		"coverage": "nyc npm run test"
+		"coverage": "nyc --reporter=cobertura npm run test"
 	},
 	"repository": {
 		"type": "git",

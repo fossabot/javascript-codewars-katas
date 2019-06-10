@@ -1,7 +1,3 @@
 exports.countBits = function(number) {
-	return number
-		.toString(2)
-		.split('')
-		.map(value => Number(value))
-		.reduce((accumulator, value) => accumulator + value, 0)
+	return (number.toString(2).match(/1/g) || []).length
 }

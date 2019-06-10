@@ -1,0 +1,55 @@
+{
+	"name": "javascript-codewars-katas",
+	"version": "1.0.0",
+	"description": "JavaScript Codewars Katas",
+	"main": "index.js",
+	"dependencies": {
+		"chai": "^4.2.0",
+		"nyc": "^14.1.1",
+		"prettier": "^1.17.1",
+		"standard": "^12.0.1"
+	},
+	"devDependencies": {
+		"husky": "^2.4.0",
+		"mocha": "^6.1.4",
+		"xo": "^0.24.0"
+	},
+	"scripts": {
+		"lint": "xo",
+		"test": "mocha --opts ./mocha.opts",
+		"coverage": "nyc npm run test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AsmusGerman/javascript-codewars-katas.git"
+	},
+	"author": "Asmus Germán",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AsmusGerman/javascript-codewars-katas/issues"
+	},
+	"homepage": "https://github.com/AsmusGerman/javascript-codewars-katas#readme",
+	"husky": {
+		"hooks": {
+			"pre-commit": "pretty-quick --staged"
+		}
+	},
+	"xo": {
+		"envs": [
+			"node",
+			"mocha"
+		],
+		"extends": [
+			"prettier"
+		]
+	},
+	"prettier": {
+		"semi": false,
+		"useTabs": true,
+		"tabWidth": 2,
+		"printWidth": 120,
+		"singleQuote": true,
+		"trailingComma": "es5",
+		"eslintIntegration": true
+	}
+}

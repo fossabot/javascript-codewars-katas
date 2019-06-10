@@ -4,7 +4,7 @@
 [![Codewars](https://www.codewars.com/users/AsmusGerman/badges/micro)](https://www.codewars.com/users/AsmusGerman)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://dev.azure.com/germanAsmus/germanasmusmaher/_apis/build/status/AsmusGerman.javascript-codewars-katas?branchName=master)](https://dev.azure.com/germanAsmus/germanasmusmaher/_build/latest?definitionId=4&branchName=master)
 ![](https://david-dm.org/AsmusGerman/javascript-codewars-katas.svg)
 ![](https://david-dm.org/AsmusGerman/javascript-codewars-katas/dev-status.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

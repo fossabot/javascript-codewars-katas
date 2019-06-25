@@ -5,6 +5,7 @@
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Build Status](https://dev.azure.com/germanAsmus/germanasmusmaher/_apis/build/status/AsmusGerman.javascript-codewars-katas?branchName=master)](https://dev.azure.com/germanAsmus/germanasmusmaher/_build/latest?definitionId=4&branchName=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAsmusGerman%2Fjavascript-codewars-katas.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAsmusGerman%2Fjavascript-codewars-katas?ref=badge_shield)
 ![](https://david-dm.org/AsmusGerman/javascript-codewars-katas.svg)
 ![](https://david-dm.org/AsmusGerman/javascript-codewars-katas/dev-status.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -40,3 +41,7 @@ The Katas are gonna be within its rank on a folder and each rank with its own co
 ├── 7-kyu/
 │   └── ...
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAsmusGerman%2Fjavascript-codewars-katas.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAsmusGerman%2Fjavascript-codewars-katas?ref=badge_large)
